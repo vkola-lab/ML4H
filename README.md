@@ -21,7 +21,7 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 
 -- Students will also learn basic programming skills during hands-on tutorial sessions.
 
-##Overview of topics:
+## 📚 Overview of topics:
 
 --- Module 1: Introduction to ML in healthcare
 
@@ -34,4 +34,11 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 --- Module 5: Ethical and practical considerations
 
 --- Module 6: Deep learning basics
+
+# 🙌 Acknowledgments
+-- ML4H is created and maintained by members of the [Kolachalama Laboratory](https://vkola-lab.github.io/). 
+
+-- Core contributors and maintainers: 
+	[Sahana Kowshik](https://github.com/sahanakowshik), 
+	[Subhrangshu Bit](https://github.com/SubhrangshuBit), 	[Divya Appapogu](https://github.com/DivyaSpoorthy)
 
