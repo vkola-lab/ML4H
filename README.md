@@ -22,17 +22,27 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 
 ## 📚 Overview of topics:
 
---- Module 1: Introduction to ML in healthcare
+-- Module 1: Introduction to ML in healthcare
 
---- Module 2: Data in healthcare
+-- Module 2: Data in healthcare
+	- Tables and arrays
+ 	- Medical images
+  	- Voice recordings
 
---- Module 3: Fundamental algorithms
+-- Module 3: Fundamental algorithms
+	- Logistic regression
+ 	- Support vector machines
+  	- Decision trees
 
---- Module 4: Model development and validation
+-- Module 4: Model development and validation
+	- Binary classifier on tabular data
+ 	- Perform regression analysis 
+  	- Multiclass problems
+  
+-- Module 5: Ethical and practical considerations
 
---- Module 5: Ethical and practical considerations
-
---- Module 6: Deep learning basics
+-- Module 6: Deep learning
+	- Introduction to neural networks
 
 # 🙌 Acknowledgments
 -- ML4H is created and maintained by members of the [Kolachalama Laboratory](https://vkola-lab.github.io/). 
