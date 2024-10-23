@@ -21,27 +21,36 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 -- Students will also learn basic programming skills during hands-on tutorial sessions.
 
 ## 📚 Overview of topics:
-
 -- Module 1: Introduction to ML in healthcare
-
+  
 -- Module 2: Data in healthcare
-	- Tables and arrays
- 	- Medical images
-  	- Voice recordings
 
+	- Tables and arrays
+
+  	- Medical images
+  	
+   	- Voice recordings
+   
 -- Module 3: Fundamental algorithms
-	- Logistic regression
- 	- Support vector machines
+	
+ 	- Logistic regression
+ 
+  	- Support vector machines
+  
   	- Decision trees
 
 -- Module 4: Model development and validation
+
 	- Binary classifier on tabular data
- 	- Perform regression analysis 
-  	- Multiclass problems
+
+  	- Perform regression analysis 
+  	
+   	- Multiclass problems
   
 -- Module 5: Ethical and practical considerations
 
 -- Module 6: Deep learning
+
 	- Introduction to neural networks
 
 # 🙌 Acknowledgments
