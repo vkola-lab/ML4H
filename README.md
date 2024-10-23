@@ -6,6 +6,9 @@ From self-driving cars to face recognition, machine learning algorithms are bein
 
 The main feature of this course is that students will learn by doing! We will bring machine learning to life by showing fascinating use cases in healthcare and tackling interesting real-world problems like disease risk assessment and predictive modeling. When students complete this introductory course, they will be in a position to analyze several types of medical datasets using machine learning techniques.
 
+##Who can take this course?
+This course is intended for those who are beginners in machine learning and are interested in applying its concepts to healthcare, including healthcare professionals, students, researchers and data enthusiasts seeking to gain literacy in medical data science.
+
 ##Pre-requisites: 
 Basic familiarity with Microsoft Excel or similar analysis software. Prior experience in scientific programing languages (Matlab, Python, etc.) is a plus but not mandatory.
 
