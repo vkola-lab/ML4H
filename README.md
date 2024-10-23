@@ -47,11 +47,12 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
   	
    	- Multiclass problems
   
--- Module 5: Ethical and practical considerations
-
--- Module 6: Deep learning
+-- Module 5: Deep learning
 
 	- Introduction to neural networks
+
+-- Module 6: Good practices
+
 
 # 🙌 Acknowledgments
 -- ML4H is created and maintained by members of the [Kolachalama Laboratory](https://vkola-lab.github.io/). 
