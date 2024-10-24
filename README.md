@@ -25,7 +25,7 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 
 	- Overview of AI applications in medicine and healthcare
  
-	- Case studies (What's happening now?)
+	- Current trends
   
 -- Module 2: Data in healthcare
 
