@@ -22,6 +22,10 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 
 ## 📚 Overview of topics:
 -- Module 1: Introduction to ML in healthcare
+
+	- Overview of AI applications in medicine and healthcare
+ 
+	- Case studies (What's happening now?)
   
 -- Module 2: Data in healthcare
 
@@ -29,8 +33,10 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 
   	- Medical images
   	
-   	- Voice recordings
-   
+   	- Text
+    
+    	- Voice recordings
+    	
 -- Module 3: Fundamental algorithms
 	
  	- Logistic regression
@@ -39,11 +45,15 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
   
   	- Decision trees
 
+   	- K-means clustering
+
+    	- Principal component analysis
+
 -- Module 4: Model development and validation
 
 	- Binary classifier on tabular data
 
-  	- Perform regression analysis 
+  	- Regression analysis 
   	
    	- Multiclass problems
   
