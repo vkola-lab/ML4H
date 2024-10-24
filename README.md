@@ -67,7 +67,7 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 
 
 # 🙌 Acknowledgments
--- ML4H is created and maintained by members of the [Kolachalama Laboratory](https://vkola-lab.github.io/). 
+-- ML4H is maintained by members of the [Kolachalama Laboratory](https://vkola-lab.github.io/). 
 
 -- Core contributors and maintainers: 
 	[Sahana Kowshik](https://github.com/sahanakowshik), 
