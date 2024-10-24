@@ -49,7 +49,7 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 
 -- Module 4: Model development and validation
 
-	- Binary classifier on tabular data
+	- Binary classification
 
   	- Regression analysis 
   	
