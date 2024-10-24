@@ -1,6 +1,6 @@
 # ML4H: Machine learning for healthcare
 
-## Course description:
+## Background:
 From self-driving cars to face recognition, machine learning algorithms are being widely applied to enhance human endeavors. Machine learning is so pervasive today that we probably use it dozens of times a day without even knowing it. Many researchers also think it is the best way to make progress towards human-level artificial intelligence. In this day and age, it is therefore critical that we expose students and trainees to this exciting area and educate them in this field. An introductory course such as this one is positioned to train the next generation of medical scientists and practitioners to face data-driven challenges in the coming decades.
 
 The main feature of this course is that students will learn by doing! We will bring machine learning to life by showing fascinating use cases in healthcare and tackling interesting real-world problems like disease risk assessment and predictive modeling. When students complete this introductory course, they will be in a position to analyze several types of medical datasets using machine learning techniques.
