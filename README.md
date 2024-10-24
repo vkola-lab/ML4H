@@ -35,8 +35,6 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
   	
    	- Text
     	
-     	- Voice recordings
-    	
 -- Module 3: Fundamental algorithms
 	
  	- Logistic regression
