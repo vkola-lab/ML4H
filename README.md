@@ -23,7 +23,7 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 ## 📚 Overview of topics:
 -- Module 1: Introduction to ML in healthcare
 
-	- Overview of AI applications in medicine and healthcare
+	- Overview of AI applications in healthcare
  
 	- Current trends
   
