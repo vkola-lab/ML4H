@@ -34,8 +34,8 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
   	- Medical images
   	
    	- Text
-    
-    	- Voice recordings
+    	
+     	- Voice recordings
     	
 -- Module 3: Fundamental algorithms
 	
@@ -47,7 +47,7 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 
    	- K-means clustering
 
-    	- Principal component analysis
+	- Principal component analysis
 
 -- Module 4: Model development and validation
 
