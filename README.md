@@ -59,6 +59,10 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 
 	- Introduction to neural networks
 
+ 	- Multilayer perceptron
+
+  	- Generative frameworks
+
 -- Module 6: Good practices
 
 
