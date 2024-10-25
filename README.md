@@ -12,50 +12,63 @@ This course is intended for those who are beginners in machine learning and are 
 Basic familiarity with Microsoft Excel or similar analysis software. Prior experience in scientific programing languages (Matlab, Python, etc.) is a plus but not mandatory.
 
 ## Learning objectives:
--- The objective of this course is to teach effective machine learning techniques so that students gain practice implementing them and getting them to work for themselves. Importantly, students will gain the practical know-how needed to quickly apply these techniques to problems in healthcare. 
+- The objective of this course is to teach effective machine learning techniques so that students gain practice implementing them and getting them to work for themselves. Importantly, students will gain the practical know-how needed to quickly apply these techniques to problems in healthcare. 
 
--- Students will also get exposure to helpful tools, such as pre-written algorithms, codes and libraries, and to answer interesting questions.
+- Students will also get exposure to helpful tools, such as pre-written algorithms, codes and libraries, and to answer interesting questions.
 
--- This course is aimed at machine learning literacy rather than proficiency. Therefore, our intent is to NOT expose students with tedious and rigorous mathematical definitions or equations, but make them comfortable with the tools so that they can tackle a new data challenge without getting overwhelmed with the jargon.
+- This course is aimed at machine learning literacy rather than proficiency. Therefore, our intent is to NOT expose students with tedious and rigorous mathematical definitions or equations, but make them comfortable with the tools so that they can tackle a new data challenge without getting overwhelmed with the jargon.
 
--- Students will also learn basic programming skills during hands-on tutorial sessions.
+- Students will also learn basic programming skills during hands-on tutorial sessions.
 
 ## 📚 Overview of topics:
--- Module 1: Introduction to ML in healthcare
+### Module 1: Introduction to ML in healthcare
 
 	- Overview of AI applications in healthcare
  
 	- Current trends
   
--- Module 2: Data in healthcare
+### Module 2: Data in healthcare
 
-	- Tables and arrays
-
-  	- Medical images
-  	
-   	- Text
-    	
--- Module 3: Fundamental algorithms
-	
- 	- Logistic regression
+	- What’s in the data? Understanding different types of data:
+  		* Tabular data
+  		* Medical images
+  		* Text
+    
+	- Cohort creation, sampling, risk stratification
  
-  	- Support vector machines
-  
-  	- Decision trees
+	- Using Python libraries (pandas, NumPy) for data manipulation
+ 
+	- Data cleaning and preparation techniques specific to healthcare datasets
 
-   	- K-means clustering
+ 	- Data visualization techniques
+    	
+### Module 3: Fundamental algorithms
+	
+ 	- K-means clustering
 
-	- Principal component analysis
+  	- Linear Regression
 
--- Module 4: Model development and validation
+	- Classification
+  		* Logistic Regression
+  		* Support Vector Machines
+  		* Decision Trees
+  		* Random Forest
+ 
+  	- Principal component analysis
 
-	- Binary classification
+### Module 4: Model development and validation
 
   	- Regression analysis 
+   
+	- Binary classification
   	
-   	- Multiclass problems
+   	- Multiclass and multilabel classification
+
+    - Validation techniques: K-fold cross-validation, Confusion Matrix
+    
+    - Performance metrics: Accuracy, Recall, Sensitivity, F1-Score, AUC ROC, AUC PR
   
--- Module 5: Deep learning
+### Module 5: Deep learning
 
 	- Introduction to neural networks
 
@@ -63,7 +76,7 @@ Basic familiarity with Microsoft Excel or similar analysis software. Prior exper
 
   	- Generative frameworks
 
--- Module 6: Good practices
+### Module 6: Good practices
 
 
 # 🙌 Acknowledgments
